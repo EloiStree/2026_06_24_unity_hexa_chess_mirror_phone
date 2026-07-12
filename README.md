@@ -7,6 +7,11 @@ let alone across separate projects.
 
 However, the player prefab network does work cross project.
 
+It is for phone but my code is design for XR. 
+So they are a dependency to those tools:
+["com.unity.xr.interaction.toolkit"](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@3.0/manual/index.html)   
+["open.xr"](https://docs.unity3d.com/Packages/com.unity.xr.openxr@1.17/manual/index.html)    
+
 
 ```
         public static void GetWorldToLocal_DirectionalPoint(in Vector3 worldPosition, in Quaternion worldRotation, in Vector3 positionReference, in Quaternion rotationReference, out Vector3 localPosition, out Quaternion localRotation)
