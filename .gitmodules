@@ -1,0 +1,9 @@
+[submodule "Packages/be.elab.hexachessmirror"]
+	path = Packages/be.elab.hexachessmirror
+	url = https://github.com/EloiStree/2026_06_26_upm_hexa_chess_mirror.git
+[submodule "Packages/be.elab.hexachess"]
+	path = Packages/be.elab.hexachess
+	url = https://github.com/EloiStree/2026_06_15_upm_hexa_chess.git
+[submodule "Packages/be.elab.tickcollection"]
+	path = Packages/be.elab.tickcollection
+	url = https://github.com/EloiStree/2025_06_02_upm_tick_collection.git
