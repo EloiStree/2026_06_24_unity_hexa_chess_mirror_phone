@@ -6,9 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Packages/be.elab.hexachessmirror/Scene/Demo/Phone/DemoHexaChessPhone.unity
+    guid: 568bd74bbaaef1348a29a48bed279afd
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e3ada883d04957c49a00ff760a14f313, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 3610a1c3954a6134a815c4e401a6ba15, type: 2}
   m_UseUCBPForAssetBundles: 0
