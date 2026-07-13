@@ -12,6 +12,12 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "be.elab.logindevice": {
+      "version": "file:be.elab.logindevice",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "be.elab.tickcollection": {
       "version": "file:be.elab.tickcollection",
       "depth": 0,

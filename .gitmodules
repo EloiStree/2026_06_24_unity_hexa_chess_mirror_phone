@@ -7,3 +7,6 @@
 [submodule "Packages/be.elab.tickcollection"]
 	path = Packages/be.elab.tickcollection
 	url = https://github.com/EloiStree/2025_06_02_upm_tick_collection.git
+[submodule "Packages/be.elab.logindevice"]
+	path = Packages/be.elab.logindevice
+	url = https://github.com/EloiStree/2026_07_13_upm_github_login_device.git
