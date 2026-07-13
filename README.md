@@ -3,7 +3,8 @@
 <img width="1408" height="740" alt="image" src="https://github.com/user-attachments/assets/eb2c1aa6-be23-4f68-a1a4-e8183dcf4329" />   
 <img width="1231" height="680" alt="image" src="https://github.com/user-attachments/assets/b828c96b-8721-4d87-9abb-8351a8c4cc9a" />  
 
-
+[Itch.io](https://eloistree.itch.io/hexa-chess-xr-unity)    
+   
 > Phone version of the Hexa Chess XR Game.
 
 Note that Mirror isn't designed to work across different scenes,
